@@ -36,7 +36,7 @@ df = df.dropna()
 # Check if there are any null values
 df.isnull().values.any()
 
-# DATA SET BALANCING
+# DATA BALANCING
 
 # Specify features columns
 X = df.drop(columns="TenYearCHD", axis=0)
