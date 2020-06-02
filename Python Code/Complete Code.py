@@ -109,7 +109,7 @@ def models_evaluation(X, y, folds):
                                                                log['test_recall'].mean(),
                                                                log['test_f1_score'].mean()],
                                        
-                                     'Support Vector Classifier':[svc['test_accuracy'].mean(),
+                                      'Support Vector Classifier':[svc['test_accuracy'].mean(),
                                                                   svc['test_precision'].mean(),
                                                                   svc['test_recall'].mean(),
                                                                   svc['test_f1_score'].mean()],
