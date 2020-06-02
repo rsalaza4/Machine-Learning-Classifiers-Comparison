@@ -12,3 +12,5 @@
 * [seaborn](https://seaborn.pydata.org)
 * [imbalanced-learn](https://imbalanced-learn.readthedocs.io/en/stable/index.html)
 * [scikit-learn](https://scikit-learn.org/stable/)
+
+## Written Article
