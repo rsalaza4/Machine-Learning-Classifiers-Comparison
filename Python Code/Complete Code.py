@@ -56,7 +56,7 @@ df_data, df_target = rus.fit_resample(X, y)
 # Visualize new classes distributions
 sns.countplot(df_target).set_title('Balanced Data Set')
 
-# MDOELS BUILDING AND PERFOMANCE EVALUATION
+# MDOELS BUILDING AND PERFORMANCE EVALUATION
 
 # Import required libraries for performance measures
 from sklearn.metrics import make_scorer
