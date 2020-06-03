@@ -58,7 +58,7 @@ sns.countplot(df_target).set_title('Balanced Data Set')
 
 # MODELS BUILDING AND PERFORMANCE EVALUATION
 
-# Import required libraries for performance measures
+# Import required libraries for performance metrics
 from sklearn.metrics import make_scorer
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
@@ -66,7 +66,7 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import f1_score
 from sklearn.model_selection import cross_validate
 
-# Define dictionary with performance measures
+# Define dictionary with performance metrics
 scoring = {'accuracy':make_scorer(accuracy_score), 
            'precision':make_scorer(precision_score),
            'recall':make_scorer(recall_score), 
@@ -134,7 +134,7 @@ def models_evaluation(X, y, folds):
     # Add 'Best Score' column
     models_scores_table['Best Score'] = models_scores_table.idxmax(axis=1)
     
-    # Return models performance measures scores data frame
+    # Return models performance metrics scores data frame
     return(models_scores_table)
   
 # Run models_evaluation function
