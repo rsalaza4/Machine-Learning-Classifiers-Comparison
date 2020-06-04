@@ -14,3 +14,5 @@
 * [scikit-learn](https://scikit-learn.org/stable/)
 
 ## Written Article
+
+* [Medium](https://medium.com/@rsalaza4/machine-learning-classifiers-comparison-with-python-33149aecdbca)
