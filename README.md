@@ -1,5 +1,7 @@
 # Machine Learning Classifiers Comparison
 
+This repository contains a Python code for comparing the effectiveness of 5 machine learning classifiers (logisitc regression, support vector classifier, decision tree, random forest and Gaussian Naïve Bayes classifier) through the calculation of their corresponding performance metrics (accuracy, precision, recall and F1 score). 
+
 ## Requirements
 
 * [Python 3.7](https://www.python.org/)
