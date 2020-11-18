@@ -18,3 +18,9 @@ This repository contains a Python code for comparing the effectiveness of 5 mach
 ## Written Article
 
 * [Towards Data Science - Medium](https://towardsdatascience.com/machine-learning-classifiers-comparison-with-python-33149aecdbca)
+
+---
+
+### Roberto Salazar
+
+**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://medium.com/@rsalaza4)
